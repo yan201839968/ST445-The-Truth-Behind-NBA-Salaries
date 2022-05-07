@@ -1,0 +1,485 @@
+,Unnamed: 0,Name,Page,Birthplace,Years of experience,Age,Position,Team,PER,Salary,Country,lat,long,lat_us,long_us,Region,Foreign?
+0,0,Russell Westbrook,https://www.basketball-reference.com/players/w/westbru01.html,California,13,29,PG,OKC,30.6,26540100,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+1,1,Malcolm Brogdon,https://www.basketball-reference.com/players/b/brogdma01.html,Georgia,5,25,SG,MIL,14.9,925000,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+2,2,Hassan Whiteside,https://www.basketball-reference.com/players/w/whiteha01.html,North Carolina,9,28,C,MIA,22.6,22116750,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+3,3,James Harden,https://www.basketball-reference.com/players/h/hardeja01.html,California,12,28,PG,HOU,27.4,26540100,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+4,4,Álex Abrines,https://www.basketball-reference.com/players/a/abrinal01.html,Spain,3,24,SG,OKC,10.1,5994764,Spain,40.0,-4.0,40.0,-4.0,Europe,1
+5,5,Quincy Acy,https://www.basketball-reference.com/players/a/acyqu01.html,Texas,7,27,PF,TOT,11.8,1914544,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+6,6,Steven Adams,https://www.basketball-reference.com/players/a/adamsst01.html,New Zealand,8,24,C,OKC,16.5,3140517,New Zealand,-41.0,174.0,-41.0,174.0,Oceania,1
+7,7,Arron Afflalo,https://www.basketball-reference.com/players/a/afflaar01.html,California,11,32,SG,SAC,8.9,12500000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+8,8,Alexis Ajinça,https://www.basketball-reference.com/players/a/ajincal01.html,France,7,29,C,NOP,12.9,4600000,France,46.0,2.0,46.0,2.0,Europe,1
+9,9,Cole Aldrich,https://www.basketball-reference.com/players/a/aldrico01.html,Minnesota,8,29,C,MIN,12.7,7643979,United States,38.0,-97.0,44.955097,-93.102211,United States,0
+10,10,LaMarcus Aldridge,https://www.basketball-reference.com/players/a/aldrila01.html,Texas,15,32,PF,SAS,18.6,20575005,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+11,11,Lavoy Allen,https://www.basketball-reference.com/players/a/allenla01.html,Pennsylvania,6,28,PF,IND,11.6,4000000,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+12,12,Tony Allen,https://www.basketball-reference.com/players/a/allento01.html,Illinois,14,35,SG,MEM,13.3,5505618,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+13,13,Al-Farouq Aminu,https://www.basketball-reference.com/players/a/aminual01.html,Georgia,11,27,PF,POR,11.3,7680965,Georgia,42.0,43.5,33.749027,-84.388229,Middle East,1
+14,14,Chris Andersen,https://www.basketball-reference.com/players/a/anderch01.html,California,15,39,C,CLE,11.6,1551659,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+15,15,Alan Anderson,https://www.basketball-reference.com/players/a/anderal01.html,Minnesota,8,35,SF,LAC,5.0,1315448,United States,38.0,-97.0,44.955097,-93.102211,United States,0
+16,16,Justin Anderson,https://www.basketball-reference.com/players/a/anderju01.html,Virginia,5,24,SF,TOT,13.9,1514160,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+17,17,Kyle Anderson,https://www.basketball-reference.com/players/a/anderky01.html,New Jersey,7,24,SF,SAS,12.5,1192080,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+18,18,Ryan Anderson,https://www.basketball-reference.com/players/a/anderry01.html,California,12,29,PF,HOU,13.5,18735364,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+19,19,Giannis Antetokounmpo,https://www.basketball-reference.com/players/a/antetgi01.html,Greece,8,23,SF,MIL,26.1,2995421,Greece,39.0,22.0,39.0,22.0,Europe,1
+20,20,Carmelo Anthony,https://www.basketball-reference.com/players/a/anthoca01.html,New York,18,33,SF,NYK,17.9,24559380,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+21,21,Joel Anthony,https://www.basketball-reference.com/players/a/anthojo01.html,Canada,10,35,C,SAS,11.6,663810,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+22,22,Trevor Ariza,https://www.basketball-reference.com/players/a/arizatr01.html,Florida,17,32,SF,HOU,12.4,7806971,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+23,23,Darrell Arthur,https://www.basketball-reference.com/players/a/arthuda01.html,Texas,9,29,PF,DEN,12.8,8070175,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+24,24,Ömer Aşık,https://www.basketball-reference.com/players/a/asikom01.html,Turkey,8,31,C,NOP,9.8,9904494,Turkey,39.0,35.0,39.0,35.0,Middle East,1
+25,25,D.J. Augustin,https://www.basketball-reference.com/players/a/augusdj01.html,Louisiana,13,30,PG,ORL,11.0,7250000,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+26,26,Luke Babbitt,https://www.basketball-reference.com/players/b/babbilu01.html,Ohio,8,28,SF,MIA,8.3,1227000,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+27,27,Ron Baker,https://www.basketball-reference.com/players/b/bakerro01.html,Kansas,3,24,SG,NYK,7.5,543471,United States,38.0,-97.0,39.048191,-95.677956,United States,0
+28,28,Wade Baldwin,https://www.basketball-reference.com/players/b/baldwwa01.html,New Jersey,3,21,PG,MEM,6.5,1793760,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+29,29,Leandro Barbosa,https://www.basketball-reference.com/players/b/barbole01.html,Brazil,14,35,SG,PHO,11.5,4000000,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+30,30,J.J. Barea,https://www.basketball-reference.com/players/b/bareajo01.html,Puerto Rico,14,33,PG,DAL,17.2,4096950,Puerto Rico,18.25,-66.5,18.25,-66.5,South America,1
+31,31,Harrison Barnes,https://www.basketball-reference.com/players/b/barneha02.html,Iowa,9,25,PF,DAL,16.3,22116750,United States,38.0,-97.0,41.591087,-93.603729,United States,0
+32,32,Matt Barnes,https://www.basketball-reference.com/players/b/barnema02.html,California,14,37,SF,TOT,10.3,6125000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+33,33,Will Barton,https://www.basketball-reference.com/players/b/bartowi01.html,Maryland,9,26,SG,DEN,15.5,3533333,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+34,34,Brandon Bass,https://www.basketball-reference.com/players/b/bassbr01.html,Louisiana,12,32,PF,LAC,19.7,1551659,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+35,35,Nicolas Batum,https://www.basketball-reference.com/players/b/batumni01.html,France,13,29,SG,CHO,15.8,20869566,France,46.0,2.0,46.0,2.0,Europe,1
+36,36,Jerryd Bayless,https://www.basketball-reference.com/players/b/bayleje01.html,Arizona,11,29,PG,PHI,8.7,9424084,United States,38.0,-97.0,33.448143,-112.096962,United States,0
+37,37,Aron Baynes,https://www.basketball-reference.com/players/b/baynear01.html,New Zealand,9,31,C,DET,13.1,6500000,New Zealand,-41.0,174.0,-41.0,174.0,Oceania,1
+38,38,Kent Bazemore,https://www.basketball-reference.com/players/b/bazemke01.html,North Carolina,9,28,SF,ATL,11.5,15730338,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+39,39,Bradley Beal,https://www.basketball-reference.com/players/b/bealbr01.html,Missouri,9,24,SG,WAS,20.1,22116750,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+40,40,Malik Beasley,https://www.basketball-reference.com/players/b/beaslma01.html,Georgia,5,21,SG,DEN,13.7,1627320,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+41,41,Michael Beasley,https://www.basketball-reference.com/players/b/beaslmi01.html,Maryland,11,28,PF,MIL,17.8,1403611,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+42,42,Marco Belinelli,https://www.basketball-reference.com/players/b/belinma01.html,Italy,13,31,SG,CHO,13.3,6333333,Italy,42.83,12.83,42.83,12.83,Europe,1
+43,43,DeAndre' Bembry,https://www.basketball-reference.com/players/b/bembrde01.html,North Carolina,5,23,SF,ATL,8.8,1499760,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+44,44,Dragan Bender,https://www.basketball-reference.com/players/b/bendedr01.html,Bosnia and Herzegovina,4,20,PF,PHO,5.3,4276320,Bosnia and Herzegovina,44.0,18.0,44.0,18.0,Europe,1
+45,45,Anthony Bennett,https://www.basketball-reference.com/players/b/bennean01.html,Canada,4,24,PF,BRK,14.7,1015696,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+46,46,Ben Bentil,https://www.basketball-reference.com/players/b/bentibe01.html,Ghana,1,22,PF,DAL,-17.6,250000,Ghana,8.0,-2.0,8.0,-2.0,Africa,1
+47,47,Dāvis Bertāns,https://www.basketball-reference.com/players/b/bertada01.html,Latvia,5,25,PF,SAS,12.9,543471,Latvia,57.0,25.0,57.0,25.0,Europe,1
+48,48,Patrick Beverley,https://www.basketball-reference.com/players/b/beverpa01.html,Illinois,9,29,SG,HOU,13.0,6000000,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+49,49,Bismack Biyombo,https://www.basketball-reference.com/players/b/biyombi01.html,Democratic Republic of the Congo,10,25,C,ORL,12.2,17000000,Democratic Republic of the Congo,0.0,25.0,0.0,25.0,Africa,1
+50,50,Nemanja Bjelica,https://www.basketball-reference.com/players/b/bjeline01.html,Serbia,6,29,PF,MIN,11.0,3800000,Serbia,44.0,21.0,44.0,21.0,Europe,1
+51,51,Tarik Black,https://www.basketball-reference.com/players/b/blackta01.html,Tennessee,4,26,C,LAL,15.0,6191000,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+52,52,Eric Bledsoe,https://www.basketball-reference.com/players/b/bledser01.html,Alabama,11,28,PG,PHO,20.5,14000000,United States,38.0,-97.0,32.377716,-86.300568,United States,0
+53,53,Bojan Bogdanović,https://www.basketball-reference.com/players/b/bogdabo02.html,Bosnia and Herzegovina,7,28,SF,TOT,13.5,3730653,Bosnia and Herzegovina,44.0,18.0,44.0,18.0,Europe,1
+54,54,Andrew Bogut,https://www.basketball-reference.com/players/b/bogutan01.html,Australia,14,33,C,TOT,9.3,11027027,Australia,-27.0,133.0,-27.0,133.0,Oceania,1
+55,55,Joel Bolomboy,https://www.basketball-reference.com/players/b/bolomjo01.html,Ukraine,2,23,PF,UTA,19.7,600000,Ukraine,49.0,32.0,49.0,32.0,Europe,1
+56,56,Devin Booker,https://www.basketball-reference.com/players/b/bookede01.html,Michigan,6,21,SG,PHO,14.6,2223600,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+57,57,Trevor Booker,https://www.basketball-reference.com/players/b/booketr01.html,South Carolina,8,30,PF,BRK,15.7,9250000,United States,38.0,-97.0,34.000343,-81.033211,United States,0
+58,58,Avery Bradley,https://www.basketball-reference.com/players/b/bradlav01.html,Washington,11,27,SG,BOS,14.4,8269663,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+59,59,Corey Brewer,https://www.basketball-reference.com/players/b/breweco01.html,Tennessee,13,31,SF,TOT,9.1,7600000,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+60,60,Aaron Brooks,https://www.basketball-reference.com/players/b/brookaa01.html,Washington,10,32,PG,IND,9.5,2700000,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+61,61,Anthony Brown,https://www.basketball-reference.com/players/b/brownan02.html,California,3,25,SF,TOT,7.2,874636,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+62,62,Bobby Brown,https://www.basketball-reference.com/players/b/brownbo02.html,California,4,33,PG,HOU,10.8,934293,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+63,63,Jaylen Brown,https://www.basketball-reference.com/players/b/brownja02.html,Georgia,5,21,SF,BOS,10.3,4743000,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+64,64,Nicolás Brussino,https://www.basketball-reference.com/players/b/brussni01.html,Argentina,2,24,SG,DAL,10.7,543471,Argentina,-34.0,-64.0,-34.0,-64.0,South America,1
+65,65,Reggie Bullock,https://www.basketball-reference.com/players/b/bullore01.html,Maryland,8,26,SF,DET,11.7,2255644,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+66,66,Trey Burke,https://www.basketball-reference.com/players/b/burketr01.html,Ohio,8,25,PG,WAS,10.8,3386598,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+67,67,Alec Burks,https://www.basketball-reference.com/players/b/burksal01.html,Missouri,10,26,SG,UTA,11.6,10154495,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+68,68,Jimmy Butler,https://www.basketball-reference.com/players/b/butleji01.html,Texas,10,28,SF,CHI,25.1,17552209,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+69,69,Bruno Caboclo,https://www.basketball-reference.com/players/c/cabocbr01.html,Brazil,7,22,SF,TOR,14.6,1589640,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+70,70,José Calderón,https://www.basketball-reference.com/players/c/caldejo01.html,Spain,14,36,PG,TOT,8.9,7708427,Spain,40.0,-4.0,40.0,-4.0,Europe,1
+71,71,Kentavious Caldwell-Pope,https://www.basketball-reference.com/players/c/caldwke01.html,Georgia,8,24,SG,DET,12.8,3678319,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+72,72,Isaiah Canaan,https://www.basketball-reference.com/players/c/canaais01.html,Mississippi,6,26,SG,CHI,8.1,1015696,United States,38.0,-97.0,32.303848,-90.182106,United States,0
+73,73,Clint Capela,https://www.basketball-reference.com/players/c/capelca01.html,Switzerland,7,23,C,HOU,21.4,1296240,Switzerland,47.0,8.0,47.0,8.0,Europe,1
+74,74,DeMarre Carroll,https://www.basketball-reference.com/players/c/carrode01.html,Alabama,11,31,SF,TOR,11.9,14200000,United States,38.0,-97.0,32.377716,-86.300568,United States,0
+75,75,Vince Carter,https://www.basketball-reference.com/players/c/cartevi01.html,Florida,22,40,SF,MEM,11.7,4264057,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+76,76,Michael Carter-Williams,https://www.basketball-reference.com/players/c/cartemi01.html,Massachusetts,8,26,PG,CHI,9.9,3183526,United States,38.0,-97.0,42.358162,-71.063698,United States,0
+77,77,Omri Casspi,https://www.basketball-reference.com/players/c/casspom01.html,Israel,10,29,PF,TOT,10.0,3000000,Israel,31.5,34.75,31.5,34.75,Middle East,1
+78,78,Willie Cauley-Stein,https://www.basketball-reference.com/players/c/caulewi01.html,Kansas,6,24,C,SAC,16.3,3551160,United States,38.0,-97.0,39.048191,-95.677956,United States,0
+79,79,Tyson Chandler,https://www.basketball-reference.com/players/c/chandty01.html,California,19,35,C,PHO,16.6,12415000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+80,80,Wilson Chandler,https://www.basketball-reference.com/players/c/chandwi01.html,Michigan,12,30,SF,DEN,14.9,11200000,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+81,81,Marquese Chriss,https://www.basketball-reference.com/players/c/chrisma01.html,California,5,20,PF,PHO,12.3,2941440,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+82,82,Rakeem Christmas,https://www.basketball-reference.com/players/c/chrisra01.html,New Jersey,2,26,PF,IND,10.4,1052342,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+83,83,Semaj Christon,https://www.basketball-reference.com/players/c/chrisse01.html,Ohio,1,25,PG,OKC,5.7,543471,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+84,84,Ian Clark,https://www.basketball-reference.com/players/c/clarkia01.html,Tennessee,6,26,SG,GSW,13.1,1015696,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+85,85,Jordan Clarkson,https://www.basketball-reference.com/players/c/clarkjo01.html,Florida,7,25,SG,LAL,13.2,12500000,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+86,86,Norris Cole,https://www.basketball-reference.com/players/c/coleno01.html,Ohio,6,29,PG,OKC,5.4,247991,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+87,87,Darren Collison,https://www.basketball-reference.com/players/c/collida01.html,California,10,30,PG,SAC,15.3,5229454,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+88,88,Nick Collison,https://www.basketball-reference.com/players/c/collini01.html,Iowa,14,37,PF,OKC,12.9,3750000,United States,38.0,-97.0,41.591087,-93.603729,United States,0
+89,89,Mike Conley,https://www.basketball-reference.com/players/c/conlemi01.html,Arkansas,14,30,PG,MEM,23.2,26540100,United States,38.0,-97.0,34.746613,-92.288986,United States,0
+90,90,Pat Connaughton,https://www.basketball-reference.com/players/c/connapa01.html,Massachusetts,6,24,SG,POR,11.8,874636,United States,38.0,-97.0,42.358162,-71.063698,United States,0
+91,91,Quinn Cook,https://www.basketball-reference.com/players/c/cookqu01.html,Washington,5,24,PG,TOT,11.8,79922,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+92,92,DeMarcus Cousins,https://www.basketball-reference.com/players/c/couside01.html,Alabama,10,27,C,TOT,25.8,16957900,United States,38.0,-97.0,32.377716,-86.300568,United States,0
+93,93,Robert Covington,https://www.basketball-reference.com/players/c/covinro01.html,Illinois,8,27,SF,PHI,13.2,1015696,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+94,94,Allen Crabbe,https://www.basketball-reference.com/players/c/crabbal01.html,California,7,25,SG,POR,11.6,18500000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+95,95,Jamal Crawford,https://www.basketball-reference.com/players/c/crawfja01.html,Washington,20,37,SG,LAC,12.0,13253012,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+96,96,Jordan Crawford,https://www.basketball-reference.com/players/c/crawfjo02.html,Michigan,6,29,SG,NOP,17.6,234915,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+97,97,Jae Crowder,https://www.basketball-reference.com/players/c/crowdja01.html,Georgia,9,27,SF,BOS,14.9,6286408,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+98,98,Dante Cunningham,https://www.basketball-reference.com/players/c/cunnida01.html,Maryland,10,30,PF,NOP,10.2,2978250,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+99,99,Seth Curry,https://www.basketball-reference.com/players/c/curryse01.html,North Carolina,7,27,PG,DAL,15.5,2898000,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+100,100,Stephen Curry,https://www.basketball-reference.com/players/c/curryst01.html,Ohio,12,29,PG,GSW,24.6,12112359,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+101,101,Troy Daniels,https://www.basketball-reference.com/players/d/danietr01.html,Virginia,7,26,SG,MEM,10.4,3332940,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+102,102,Anthony Davis,https://www.basketball-reference.com/players/d/davisan02.html,Illinois,9,24,C,NOP,27.5,22116750,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+103,103,Deyonta Davis,https://www.basketball-reference.com/players/d/davisde01.html,Michigan,3,21,C,MEM,10.6,1369229,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+104,104,Ed Davis,https://www.basketball-reference.com/players/d/davised01.html,Washington,11,28,PF,POR,11.5,6666667,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+105,105,Dewayne Dedmon,https://www.basketball-reference.com/players/d/dedmode01.html,California,8,28,C,SAS,16.0,2898000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+106,106,Sam Dekker,https://www.basketball-reference.com/players/d/dekkesa01.html,Wisconsin,4,23,PF,HOU,13.1,1720560,United States,38.0,-97.0,43.074684,-89.384445,United States,0
+107,107,Malcolm Delaney,https://www.basketball-reference.com/players/d/delanma01.html,Maryland,2,28,PG,ATL,7.5,2500000,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+108,108,Matthew Dellavedova,https://www.basketball-reference.com/players/d/dellama01.html,Australia,8,27,PG,MIL,9.4,9607500,Australia,-27.0,133.0,-27.0,133.0,Oceania,1
+109,109,Luol Deng,https://www.basketball-reference.com/players/d/denglu01.html,South Sudan,15,32,SF,LAL,10.1,18000000,South Sudan,6.87,31.3,6.87,31.3,Africa,1
+110,110,DeMar DeRozan,https://www.basketball-reference.com/players/d/derozde01.html,California,12,28,SG,TOR,24.0,26540100,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+111,111,Cheick Diallo,https://www.basketball-reference.com/players/d/diallch01.html,Mali,4,21,PF,NOP,16.8,543471,Mali,17.0,-4.0,17.0,-4.0,Africa,1
+112,112,Boris Diaw,https://www.basketball-reference.com/players/d/diawbo01.html,France,14,35,PF,UTA,9.0,7000000,France,46.0,2.0,46.0,2.0,Europe,1
+113,113,Gorgui Dieng,https://www.basketball-reference.com/players/d/dienggo01.html,Senegal,8,27,PF,MIN,14.2,2348783,Senegal,14.0,-14.0,14.0,-14.0,Africa,1
+114,114,Spencer Dinwiddie,https://www.basketball-reference.com/players/d/dinwisp01.html,California,7,24,PG,BRK,12.7,726672,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+115,115,Toney Douglas,https://www.basketball-reference.com/players/d/douglto01.html,Georgia,8,31,PG,MEM,10.6,603558,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+116,116,Goran Dragić,https://www.basketball-reference.com/players/d/dragigo01.html,Slovenia,13,31,PG,MIA,19.8,15890000,Slovenia,46.0,15.0,46.0,15.0,Europe,1
+117,117,Andre Drummond,https://www.basketball-reference.com/players/d/drumman01.html,New York,9,24,C,DET,20.9,22116750,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+118,118,Jared Dudley,https://www.basketball-reference.com/players/d/dudleja01.html,California,14,32,PF,PHO,10.6,10470000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+119,119,Mike Dunleavy,https://www.basketball-reference.com/players/d/dunlemi02.html,Texas,15,37,SF,TOT,10.1,4837500,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+120,120,Kris Dunn,https://www.basketball-reference.com/players/d/dunnkr01.html,Connecticut,5,23,PG,MIN,8.1,3872520,United States,38.0,-97.0,41.764046,-72.682198,United States,0
+121,121,Kevin Durant,https://www.basketball-reference.com/players/d/duranke01.html,Washington,13,29,PF,GSW,27.6,26540100,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+122,122,Jarell Eddie,https://www.basketball-reference.com/players/e/eddieja01.html,Florida,3,26,SF,PHO,9.7,175000,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+123,123,Henry Ellenson,https://www.basketball-reference.com/players/e/ellenhe01.html,Wisconsin,5,20,PF,DET,7.5,1704120,United States,38.0,-97.0,43.074684,-89.384445,United States,0
+124,124,Wayne Ellington,https://www.basketball-reference.com/players/e/ellinwa01.html,Pennsylvania,12,30,SG,MIA,12.6,6000000,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+125,125,Monta Ellis,https://www.basketball-reference.com/players/e/ellismo01.html,Mississippi,12,32,SG,IND,9.9,10770000,United States,38.0,-97.0,32.303848,-90.182106,United States,0
+126,126,Joel Embiid,https://www.basketball-reference.com/players/e/embiijo01.html,Cameroon,5,23,C,PHI,24.1,4826160,Cameroon,6.0,12.0,6.0,12.0,Africa,1
+127,127,James Ennis III,https://www.basketball-reference.com/players/e/ennisja01.html,California,7,27,SF,MEM,10.6,2898000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+128,128,Tyler Ennis,https://www.basketball-reference.com/players/e/ennisty01.html,Canada,4,23,PG,TOT,10.9,1733880,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+129,129,Tyreke Evans,https://www.basketball-reference.com/players/e/evansty01.html,Pennsylvania,10,28,SF,TOT,15.5,10661286,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+130,130,Dante Exum,https://www.basketball-reference.com/players/e/exumda01.html,Australia,6,22,PG,UTA,8.5,3940320,Australia,-27.0,133.0,-27.0,133.0,Oceania,1
+131,131,Kenneth Faried,https://www.basketball-reference.com/players/f/farieke01.html,New Jersey,8,28,PF,DEN,20.3,12078652,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+132,132,Jordan Farmar,https://www.basketball-reference.com/players/f/farmajo01.html,California,10,31,PG,SAC,14.4,510921,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+133,133,Derrick Favors,https://www.basketball-reference.com/players/f/favorde01.html,Georgia,11,26,PF,UTA,15.8,11050000,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+134,134,Kay Felder,https://www.basketball-reference.com/players/f/feldeka01.html,Michigan,2,22,PG,CLE,11.4,543471,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+135,135,Cristiano Felício,https://www.basketball-reference.com/players/f/feliccr01.html,Brazil,6,25,C,CHI,15.3,874636,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+136,136,Raymond Felton,https://www.basketball-reference.com/players/f/feltora01.html,South Carolina,14,33,PG,LAC,10.9,1551659,United States,38.0,-97.0,34.000343,-81.033211,United States,0
+137,137,Yogi Ferrell,https://www.basketball-reference.com/players/f/ferreyo01.html,Indiana,5,24,PG,TOT,13.1,239767,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+138,138,Dorian Finney-Smith,https://www.basketball-reference.com/players/f/finnedo01.html,Virginia,5,24,PF,DAL,7.7,543471,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+139,139,Bryn Forbes,https://www.basketball-reference.com/players/f/forbebr01.html,Michigan,5,24,SG,SAS,5.9,543471,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+140,140,Evan Fournier,https://www.basketball-reference.com/players/f/fournev01.html,France,9,25,SG,ORL,13.9,17000000,France,46.0,2.0,46.0,2.0,Europe,1
+141,141,Randy Foye,https://www.basketball-reference.com/players/f/foyera01.html,New Jersey,11,34,SG,BRK,7.3,2500000,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+142,142,Tim Frazier,https://www.basketball-reference.com/players/f/fraziti01.html,Texas,7,27,PG,NOP,12.4,2090000,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+143,143,Enes Freedom,https://www.basketball-reference.com/players/k/kanteen01.html,Switzerland,10,25,C,OKC,23.7,17145838,Switzerland,47.0,8.0,47.0,8.0,Europe,1
+144,144,Channing Frye,https://www.basketball-reference.com/players/f/fryech01.html,New York,13,34,C,CLE,15.6,7806971,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+145,145,Danilo Gallinari,https://www.basketball-reference.com/players/g/gallida01.html,Italy,12,29,SF,DEN,17.4,15050000,Italy,42.83,12.83,42.83,12.83,Europe,1
+146,146,Langston Galloway,https://www.basketball-reference.com/players/g/gallola01.html,Louisiana,7,26,PG,TOT,10.4,5200000,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+147,147,Patricio Garino,https://www.basketball-reference.com/players/g/garinpa01.html,Argentina,1,24,SG,ORL,-9.2,100000,Argentina,-34.0,-64.0,-34.0,-64.0,South America,1
+148,148,Marc Gasol,https://www.basketball-reference.com/players/g/gasolma01.html,Spain,13,32,C,MEM,20.3,21165675,Spain,40.0,-4.0,40.0,-4.0,Europe,1
+149,149,Pau Gasol,https://www.basketball-reference.com/players/g/gasolpa01.html,Spain,18,37,C,SAS,20.2,15500000,Spain,40.0,-4.0,40.0,-4.0,Europe,1
+150,150,Rudy Gay,https://www.basketball-reference.com/players/g/gayru01.html,New York,15,31,SF,SAC,17.9,13333333,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+151,151,Michael Gbinije,https://www.basketball-reference.com/players/g/gbinimi01.html,Connecticut,1,25,SG,DET,-2.1,650000,United States,38.0,-97.0,41.764046,-72.682198,United States,0
+152,152,Alonzo Gee,https://www.basketball-reference.com/players/g/geeal01.html,Florida,8,30,SF,DEN,3.1,1400000,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+153,153,Paul George,https://www.basketball-reference.com/players/g/georgpa01.html,California,11,27,SF,IND,20.2,18314532,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+154,154,Marcus Georges-Hunt,https://www.basketball-reference.com/players/g/georgma01.html,Florida,2,23,SG,ORL,10.2,31969,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+155,155,Jonathan Gibson,https://www.basketball-reference.com/players/g/gibsojo01.html,California,2,30,PG,DAL,9.5,680937,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+156,156,Taj Gibson,https://www.basketball-reference.com/players/g/gibsota01.html,New York,12,32,PF,TOT,15.0,8950000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+157,157,Manu Ginóbili,https://www.basketball-reference.com/players/g/ginobma01.html,Argentina,16,40,SG,SAS,13.9,14000000,Argentina,-34.0,-64.0,-34.0,-64.0,South America,1
+158,158,Rudy Gobert,https://www.basketball-reference.com/players/g/goberru01.html,France,8,25,C,UTA,23.3,2121288,France,46.0,2.0,46.0,2.0,Europe,1
+159,159,Archie Goodwin,https://www.basketball-reference.com/players/g/goodwar01.html,Arkansas,4,23,SG,TOT,18.7,2094089,United States,38.0,-97.0,34.746613,-92.288986,United States,0
+160,160,Aaron Gordon,https://www.basketball-reference.com/players/g/gordoaa01.html,California,7,22,SF,ORL,14.5,4351320,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+161,161,Eric Gordon,https://www.basketball-reference.com/players/g/gordoer01.html,Indiana,13,29,SG,HOU,13.2,12385364,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+162,162,Marcin Gortat,https://www.basketball-reference.com/players/g/gortama01.html,Poland,12,33,C,WAS,15.4,12000000,Poland,52.0,20.0,52.0,20.0,Europe,1
+163,163,Treveon Graham,https://www.basketball-reference.com/players/g/grahatr01.html,Maryland,4,24,SG,CHO,10.6,543471,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+164,164,Jerami Grant,https://www.basketball-reference.com/players/g/grantje01.html,Oregon,7,23,PF,TOT,10.1,980431,United States,38.0,-97.0,44.938461,-123.030403,United States,0
+165,165,Jerian Grant,https://www.basketball-reference.com/players/g/grantje02.html,Maryland,5,25,PG,CHI,13.2,1643040,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+166,166,Danny Green,https://www.basketball-reference.com/players/g/greenda02.html,New York,12,30,SG,SAS,10.1,10000000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+167,167,Draymond Green,https://www.basketball-reference.com/players/g/greendr01.html,Michigan,9,27,PF,GSW,16.5,15330435,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+168,168,Gerald Green,https://www.basketball-reference.com/players/g/greenge01.html,Texas,12,31,SF,BOS,11.9,1410598,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+169,169,JaMychal Green,https://www.basketball-reference.com/players/g/greenja01.html,Alabama,7,27,PF,MEM,13.5,980431,United States,38.0,-97.0,32.377716,-86.300568,United States,0
+170,170,Jeff Green,https://www.basketball-reference.com/players/g/greenje02.html,Maryland,13,31,PF,ORL,10.5,15000000,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+171,171,Blake Griffin,https://www.basketball-reference.com/players/g/griffbl01.html,Oklahoma,11,28,PF,LAC,22.6,20140838,United States,38.0,-97.0,35.492207,-97.503342,United States,0
+172,172,Justin Hamilton,https://www.basketball-reference.com/players/h/hamilju01.html,California,3,27,C,BRK,13.6,3000000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+173,173,A.J. Hammons,https://www.basketball-reference.com/players/h/hammoaj01.html,Indiana,1,25,C,DAL,8.4,650000,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+174,174,Tim Hardaway Jr.,https://www.basketball-reference.com/players/h/hardati02.html,California,8,25,SG,ATL,15.2,2281605,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+175,175,Maurice Harkless,https://www.basketball-reference.com/players/h/harklma01.html,New York,9,24,SF,POR,13.1,8988764,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+176,176,Justin Harper,https://www.basketball-reference.com/players/h/harpeju01.html,Virginia,3,28,PF,PHI,4.9,57672,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+177,177,Montrezl Harrell,https://www.basketball-reference.com/players/h/harremo01.html,North Carolina,6,23,C,HOU,19.2,1045000,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+178,178,Devin Harris,https://www.basketball-reference.com/players/h/harride01.html,Wisconsin,15,34,PG,DAL,13.8,4228000,United States,38.0,-97.0,43.074684,-89.384445,United States,0
+179,179,Gary Harris,https://www.basketball-reference.com/players/h/harriga01.html,Indiana,7,23,SG,DEN,16.5,1655880,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+180,180,Joe Harris,https://www.basketball-reference.com/players/h/harrijo01.html,Washington,7,26,SG,BRK,9.0,980431,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+181,181,Manny Harris,https://www.basketball-reference.com/players/h/harrima01.html,Michigan,4,28,SG,DAL,-2.2,119494,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+182,182,Tobias Harris,https://www.basketball-reference.com/players/h/harrito02.html,New York,10,25,PF,DET,16.9,17200000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+183,183,Aaron Harrison,https://www.basketball-reference.com/players/h/harriaa01.html,Texas,3,23,SG,CHO,-2.2,375579,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+184,184,Andrew Harrison,https://www.basketball-reference.com/players/h/harrian01.html,Texas,3,23,PG,MEM,8.7,945000,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+185,185,Udonis Haslem,https://www.basketball-reference.com/players/h/hasleud01.html,Florida,18,37,C,MIA,8.8,4000000,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+186,186,Spencer Hawes,https://www.basketball-reference.com/players/h/hawessp01.html,Washington,10,29,PF,TOT,15.6,6348759,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+187,187,Gordon Hayward,https://www.basketball-reference.com/players/h/haywago01.html,Indiana,11,27,SF,UTA,22.2,16073140,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+188,188,Gerald Henderson,https://www.basketball-reference.com/players/h/hendege02.html,New Jersey,8,30,SG,PHI,10.8,9000000,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+189,189,John Henson,https://www.basketball-reference.com/players/h/hensojo01.html,North Carolina,8,27,C,MIL,15.3,12517606,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+190,190,Juancho Hernangómez,https://www.basketball-reference.com/players/h/hernaju01.html,Spain,5,22,PF,DEN,13.4,1987440,Spain,40.0,-4.0,40.0,-4.0,Europe,1
+191,191,Willy Hernangómez,https://www.basketball-reference.com/players/h/hernawi01.html,Spain,5,23,C,NYK,19.0,1375000,Spain,40.0,-4.0,40.0,-4.0,Europe,1
+192,192,Mario Hezonja,https://www.basketball-reference.com/players/h/hezonma01.html,Croatia,5,22,SF,ORL,7.2,3909840,Croatia,45.17,15.5,45.17,15.5,Europe,1
+193,193,Roy Hibbert,https://www.basketball-reference.com/players/h/hibbero01.html,New York,9,31,C,TOT,13.5,5000000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+194,194,Buddy Hield,https://www.basketball-reference.com/players/h/hieldbu01.html,Bahamas,5,25,SG,TOT,11.8,3517200,Bahamas,24.25,-76.0,24.25,-76.0,South America,1
+195,195,Nenê,https://www.basketball-reference.com/players/h/hilarne01.html,Brazil,17,35,C,HOU,18.9,2898000,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+196,196,George Hill,https://www.basketball-reference.com/players/h/hillge01.html,Indiana,13,31,PG,UTA,19.3,8000000,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+197,197,Jordan Hill,https://www.basketball-reference.com/players/h/hilljo01.html,Georgia,8,30,C,MIN,5.5,3911380,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+198,198,Solomon Hill,https://www.basketball-reference.com/players/h/hillso01.html,California,8,26,SF,NOP,8.0,11241218,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+199,199,Darrun Hilliard,https://www.basketball-reference.com/players/h/hillida01.html,Pennsylvania,3,24,SG,DET,5.9,874636,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+200,200,Jrue Holiday,https://www.basketball-reference.com/players/h/holidjr01.html,California,12,27,PG,NOP,17.1,11286518,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+201,201,Justin Holiday,https://www.basketball-reference.com/players/h/holidju01.html,California,8,28,SG,NYK,12.7,1015696,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+202,202,Rondae Hollis-Jefferson,https://www.basketball-reference.com/players/h/holliro01.html,Pennsylvania,6,22,SF,BRK,13.7,1395600,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+203,203,Richaun Holmes,https://www.basketball-reference.com/players/h/holmeri01.html,Illinois,6,24,C,PHI,18.6,1025831,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+204,204,Rodney Hood,https://www.basketball-reference.com/players/h/hoodro01.html,Mississippi,7,25,SG,UTA,12.4,1406520,United States,38.0,-97.0,32.303848,-90.182106,United States,0
+205,205,Al Horford,https://www.basketball-reference.com/players/h/horfoal01.html,Dominican Republic,14,31,C,BOS,17.7,26540100,Dominican Republic,19.0,-70.67,19.0,-70.67,South America,1
+206,206,Danuel House Jr.,https://www.basketball-reference.com/players/h/houseda01.html,Texas,5,24,SG,WAS,12.2,543471,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+207,207,Dwight Howard,https://www.basketball-reference.com/players/h/howardw01.html,Georgia,17,32,C,ATL,20.8,23180275,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+208,208,Marcelo Huertas,https://www.basketball-reference.com/players/h/huertma01.html,Brazil,2,34,PG,LAL,9.1,1500000,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+209,209,Josh Huestis,https://www.basketball-reference.com/players/h/huestjo01.html,Texas,3,26,PF,OKC,26.1,1191480,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+210,210,Kris Humphries,https://www.basketball-reference.com/players/h/humphkr01.html,Minnesota,13,32,PF,ATL,13.6,4000000,United States,38.0,-97.0,44.955097,-93.102211,United States,0
+211,211,R.J. Hunter,https://www.basketball-reference.com/players/h/hunterj01.html,Ohio,4,24,SG,CHI,-3.2,1200240,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+212,212,Serge Ibaka,https://www.basketball-reference.com/players/i/ibakase01.html,Republic of the Congo,12,28,PF,TOT,16.4,12250000,Republic of the Congo,-1.0,15.0,-1.0,15.0,Africa,1
+213,213,Andre Iguodala,https://www.basketball-reference.com/players/i/iguodan01.html,Illinois,17,33,SF,GSW,14.3,11131368,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+214,214,Ersan İlyasova,https://www.basketball-reference.com/players/i/ilyaser01.html,Turkey,13,30,PF,TOT,14.6,8400000,Turkey,39.0,35.0,39.0,35.0,Middle East,1
+215,215,Joe Ingles,https://www.basketball-reference.com/players/i/inglejo01.html,Australia,7,30,SF,UTA,12.4,2250000,Australia,-27.0,133.0,-27.0,133.0,Oceania,1
+216,216,Brandon Ingram,https://www.basketball-reference.com/players/i/ingrabr01.html,North Carolina,5,20,SF,LAL,8.5,5281680,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+217,217,Kyrie Irving,https://www.basketball-reference.com/players/i/irvinky01.html,Australia,10,25,PG,CLE,23.0,17638063,Australia,-27.0,133.0,-27.0,133.0,Oceania,1
+218,218,Jarrett Jack,https://www.basketball-reference.com/players/j/jackja01.html,Maryland,13,34,PG,NOP,7.7,1551659,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+219,219,Demetrius Jackson,https://www.basketball-reference.com/players/j/jacksde01.html,Indiana,3,23,PG,BOS,30.8,1450000,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+220,220,Pierre Jackson,https://www.basketball-reference.com/players/j/jackspi01.html,Nevada,1,26,PG,DAL,13.0,105498,United States,38.0,-97.0,39.163914,-119.766121,United States,0
+221,221,Reggie Jackson,https://www.basketball-reference.com/players/j/jacksre01.html,Italy,10,27,PG,DET,14.9,14956522,Italy,42.83,12.83,42.83,12.83,Europe,1
+222,222,LeBron James,https://www.basketball-reference.com/players/j/jamesle01.html,Ohio,18,33,SF,CLE,27.0,30963450,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+223,223,Al Jefferson,https://www.basketball-reference.com/players/j/jeffeal01.html,Mississippi,14,32,C,IND,18.9,10230179,United States,38.0,-97.0,32.303848,-90.182106,United States,0
+224,224,Richard Jefferson,https://www.basketball-reference.com/players/j/jefferi01.html,California,17,37,SF,CLE,8.3,2500000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+225,225,John Jenkins,https://www.basketball-reference.com/players/j/jenkijo01.html,Tennessee,6,26,SG,PHO,17.3,469841,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+226,226,Brandon Jennings,https://www.basketball-reference.com/players/j/jennibr01.html,California,9,28,PG,TOT,12.1,4837318,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+227,227,Jonas Jerebko,https://www.basketball-reference.com/players/j/jerebjo01.html,Sweden,9,30,PF,BOS,9.3,5000000,Sweden,62.0,15.0,62.0,15.0,Europe,1
+228,228,Amir Johnson,https://www.basketball-reference.com/players/j/johnsam01.html,California,14,30,PF,BOS,15.0,12000000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+229,229,Brice Johnson,https://www.basketball-reference.com/players/j/johnsbr02.html,South Carolina,2,23,PF,LAC,17.2,1273920,United States,38.0,-97.0,34.000343,-81.033211,United States,0
+230,230,James Johnson,https://www.basketball-reference.com/players/j/johnsja01.html,Wyoming,12,30,PF,MIA,17.0,4000000,United States,38.0,-97.0,41.140259,-104.820236,United States,0
+231,231,Joe Johnson,https://www.basketball-reference.com/players/j/johnsjo02.html,Arkansas,17,36,SF,UTA,12.8,11000000,United States,38.0,-97.0,34.746613,-92.288986,United States,0
+232,232,Stanley Johnson,https://www.basketball-reference.com/players/j/johnsst04.html,California,6,21,SF,DET,7.2,2969880,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+233,233,Tyler Johnson,https://www.basketball-reference.com/players/j/johnsty01.html,North Dakota,7,25,PG,MIA,15.9,5628000,United States,38.0,-97.0,46.82085,-100.783318,United States,0
+234,234,Wesley Johnson,https://www.basketball-reference.com/players/j/johnswe01.html,Texas,9,30,SF,LAC,8.4,5628000,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+235,235,Nikola Jokić,https://www.basketball-reference.com/players/j/jokicni01.html,Serbia,6,22,C,DEN,26.3,1358500,Serbia,44.0,21.0,44.0,21.0,Europe,1
+236,236,Dahntay Jones,https://www.basketball-reference.com/players/j/jonesda02.html,New Jersey,13,37,SF,CLE,14.7,24022,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+237,237,Damian Jones,https://www.basketball-reference.com/players/j/jonesda03.html,Louisiana,5,22,C,GSW,5.3,1171560,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+238,238,Derrick Jones Jr.,https://www.basketball-reference.com/players/j/jonesde02.html,Pennsylvania,5,20,SF,PHO,12.0,543471,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+239,239,James Jones,https://www.basketball-reference.com/players/j/jonesja02.html,Florida,14,37,SF,CLE,11.1,1551659,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+240,240,Terrence Jones,https://www.basketball-reference.com/players/j/joneste01.html,Oregon,6,25,PF,TOT,16.1,1050961,United States,38.0,-97.0,44.938461,-123.030403,United States,0
+241,241,Tyus Jones,https://www.basketball-reference.com/players/j/jonesty01.html,Minnesota,6,21,PG,MIN,13.8,1339680,United States,38.0,-97.0,44.955097,-93.102211,United States,0
+242,242,DeAndre Jordan,https://www.basketball-reference.com/players/j/jordade01.html,Texas,13,29,C,LAC,21.8,21165675,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+243,243,Cory Joseph,https://www.basketball-reference.com/players/j/josepco01.html,Canada,10,26,PG,TOR,13.2,7330000,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+244,244,Frank Kaminsky,https://www.basketball-reference.com/players/k/kaminfr01.html,Illinois,6,24,C,CHO,13.0,2730000,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+245,245,Ryan Kelly,https://www.basketball-reference.com/players/k/kellyry01.html,New York,4,26,PF,ATL,7.8,418228,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+246,246,Michael Kidd-Gilchrist,https://www.basketball-reference.com/players/k/kiddgmi01.html,Pennsylvania,8,24,SF,CHO,14.3,13000000,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+247,247,Sean Kilpatrick,https://www.basketball-reference.com/players/k/kilpase01.html,New York,4,27,SG,BRK,13.1,980431,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+248,248,Brandon Knight,https://www.basketball-reference.com/players/k/knighbr03.html,Florida,8,26,SG,PHO,12.4,12606250,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+249,249,Kyle Korver,https://www.basketball-reference.com/players/k/korveky01.html,California,17,36,SG,TOT,12.1,5239437,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+250,250,Kosta Koufos,https://www.basketball-reference.com/players/k/koufoko01.html,Ohio,11,28,C,SAC,13.8,8046500,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+251,251,Mindaugas Kuzminskas,https://www.basketball-reference.com/players/k/kuzmimi01.html,Lithuania,2,28,SF,NYK,12.4,2898000,Lithuania,56.0,24.0,56.0,24.0,Europe,1
+252,252,Skal Labissière,https://www.basketball-reference.com/players/l/labissk01.html,Haiti,4,21,PF,SAC,16.8,1188840,Haiti,19.0,-72.42,19.0,-72.42,South America,1
+253,253,Jeremy Lamb,https://www.basketball-reference.com/players/l/lambje01.html,Virginia,9,25,SG,CHO,17.0,6511628,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+254,254,Nicolás Laprovíttola,https://www.basketball-reference.com/players/l/laproni01.html,Argentina,1,27,PG,SAS,8.4,210995,Argentina,-34.0,-64.0,-34.0,-64.0,South America,1
+255,255,Joffrey Lauvergne,https://www.basketball-reference.com/players/l/lauvejo01.html,France,4,26,PF-C,TOT,12.6,1709720,France,46.0,2.0,46.0,2.0,Europe,1
+256,256,Zach LaVine,https://www.basketball-reference.com/players/l/lavinza01.html,Washington,7,22,SG,MIN,14.6,2240880,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+257,257,Ty Lawson,https://www.basketball-reference.com/players/l/lawsoty01.html,Maryland,9,30,PG,SAC,15.4,1315448,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+258,258,Jake Layman,https://www.basketball-reference.com/players/l/laymaja01.html,Massachusetts,5,23,SF,POR,4.9,600000,United States,38.0,-97.0,42.358162,-71.063698,United States,0
+259,259,Courtney Lee,https://www.basketball-reference.com/players/l/leeco01.html,Indiana,12,32,SG,NYK,12.2,11242000,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+260,260,David Lee,https://www.basketball-reference.com/players/l/leeda02.html,Missouri,12,34,PF,SAS,18.5,1551659,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+261,261,Alex Len,https://www.basketball-reference.com/players/l/lenal01.html,Ukraine,8,24,C,PHO,15.0,4823621,Ukraine,49.0,32.0,49.0,32.0,Europe,1
+262,262,Kawhi Leonard,https://www.basketball-reference.com/players/l/leonaka01.html,California,10,26,SF,SAS,27.6,17638063,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+263,263,Meyers Leonard,https://www.basketball-reference.com/players/l/leoname01.html,Illinois,9,25,PF,POR,8.9,9213484,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+264,264,Jon Leuer,https://www.basketball-reference.com/players/l/leuerjo01.html,Minnesota,8,28,PF,DET,14.2,10991957,United States,38.0,-97.0,44.955097,-93.102211,United States,0
+265,265,Caris LeVert,https://www.basketball-reference.com/players/l/leverca01.html,Ohio,5,23,SF,BRK,12.3,1562280,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+266,266,DeAndre Liggins,https://www.basketball-reference.com/players/l/liggide01.html,Illinois,5,29,SG,TOT,7.5,1015696,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+267,267,Damian Lillard,https://www.basketball-reference.com/players/l/lillada01.html,California,9,27,PG,POR,24.1,24328425,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+268,268,Jeremy Lin,https://www.basketball-reference.com/players/l/linje01.html,California,9,29,PG,BRK,19.2,11483254,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+269,269,Shaun Livingston,https://www.basketball-reference.com/players/l/livinsh01.html,Illinois,14,32,PG,GSW,10.1,5782450,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+270,270,Shawn Long,https://www.basketball-reference.com/players/l/longsh01.html,Louisiana,1,24,C,PHI,24.1,96969,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+271,271,Kevon Looney,https://www.basketball-reference.com/players/l/looneke01.html,Wisconsin,6,21,C,GSW,13.6,1182840,United States,38.0,-97.0,43.074684,-89.384445,United States,0
+272,272,Brook Lopez,https://www.basketball-reference.com/players/l/lopezbr01.html,California,13,29,C,BRK,20.4,21165675,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+273,273,Robin Lopez,https://www.basketball-reference.com/players/l/lopezro01.html,California,13,29,C,CHI,14.4,13219250,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+274,274,Kevin Love,https://www.basketball-reference.com/players/l/loveke01.html,California,13,29,PF,CLE,21.1,21165675,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+275,275,Kyle Lowry,https://www.basketball-reference.com/players/l/lowryky01.html,Pennsylvania,15,31,PG,TOR,22.9,12000000,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+276,276,John Lucas III,https://www.basketball-reference.com/players/l/lucasjo02.html,Washington,8,35,PG,MIN,9.1,635753,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+277,277,Timothé Luwawu-Cabarrot,https://www.basketball-reference.com/players/l/luwawti01.html,France,5,22,SF,PHI,8.5,1326960,France,46.0,2.0,46.0,2.0,Europe,1
+278,278,Trey Lyles,https://www.basketball-reference.com/players/l/lylestr01.html,Canada,6,22,PF,UTA,9.9,2340600,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+279,279,Sheldon Mac,https://www.basketball-reference.com/players/m/mcclesh01.html,Texas,1,25,SG,WAS,10.1,543471,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+280,280,Shelvin Mack,https://www.basketball-reference.com/players/m/macksh01.html,Kentucky,8,27,PG,UTA,10.9,2433334,United States,38.0,-97.0,38.186722,-84.875374,United States,0
+281,281,Ian Mahinmi,https://www.basketball-reference.com/players/m/mahinia01.html,France,12,31,C,WAS,14.1,15944154,France,46.0,2.0,46.0,2.0,Europe,1
+282,282,Thon Maker,https://www.basketball-reference.com/players/m/makerth01.html,South Sudan,5,20,C,MIL,14.0,2568600,South Sudan,6.87,31.3,6.87,31.3,Africa,1
+283,283,Boban Marjanović,https://www.basketball-reference.com/players/m/marjabo01.html,Serbia,6,29,C,DET,29.6,7000000,Serbia,44.0,21.0,44.0,21.0,Europe,1
+284,284,Jarell Martin,https://www.basketball-reference.com/players/m/martija01.html,Louisiana,4,23,PF,MEM,8.7,1286160,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+285,285,Wesley Matthews,https://www.basketball-reference.com/players/m/matthwe02.html,Texas,12,31,SG,DAL,11.9,17100000,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+286,286,Luc Mbah a Moute,https://www.basketball-reference.com/players/m/mbahalu01.html,Cameroon,12,31,SF,LAC,10.2,2203000,Cameroon,6.0,12.0,6.0,12.0,Africa,1
+287,287,James Michael McAdoo,https://www.basketball-reference.com/players/m/mcadoja01.html,Virginia,4,24,PF,GSW,13.1,980431,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+288,288,Patrick McCaw,https://www.basketball-reference.com/players/m/mccawpa01.html,Missouri,5,22,SG,GSW,8.6,543471,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+289,289,CJ McCollum,https://www.basketball-reference.com/players/m/mccolcj01.html,Ohio,8,26,SG,POR,19.9,3219579,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+290,290,T.J. McConnell,https://www.basketball-reference.com/players/m/mccontj01.html,Pennsylvania,6,25,PG,PHI,13.7,874636,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+291,291,Chris McCullough,https://www.basketball-reference.com/players/m/mcculch01.html,New York,3,22,PF,TOT,15.2,1191480,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+292,292,K.J. McDaniels,https://www.basketball-reference.com/players/m/mcdankj01.html,Alabama,3,24,SF,TOT,11.5,3333333,United States,38.0,-97.0,32.377716,-86.300568,United States,0
+293,293,Doug McDermott,https://www.basketball-reference.com/players/m/mcderdo01.html,North Dakota,7,25,SF,TOT,10.7,2483040,United States,38.0,-97.0,46.82085,-100.783318,United States,0
+294,294,JaVale McGee,https://www.basketball-reference.com/players/m/mcgeeja01.html,Michigan,13,29,C,GSW,25.2,1403611,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+295,295,Rodney McGruder,https://www.basketball-reference.com/players/m/mcgruro01.html,Maryland,5,26,SG,MIA,9.1,543471,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+296,296,Ben McLemore,https://www.basketball-reference.com/players/m/mclembe01.html,Missouri,8,24,SG,SAC,9.8,4008882,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+297,297,Jordan McRae,https://www.basketball-reference.com/players/m/mcraejo01.html,Georgia,4,26,SG,CLE,9.7,874636,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+298,298,Josh McRoberts,https://www.basketball-reference.com/players/m/mcrobjo01.html,Indiana,11,30,PF,MIA,9.8,5782450,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+299,299,Jodie Meeks,https://www.basketball-reference.com/players/m/meeksjo01.html,Tennessee,10,30,SG,ORL,13.1,6540000,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+300,300,Salah Mejri,https://www.basketball-reference.com/players/m/mejrisa01.html,Tunisia,4,31,C,DAL,14.8,874636,Tunisia,34.0,9.0,34.0,9.0,Africa,1
+301,301,Jordan Mickey,https://www.basketball-reference.com/players/m/mickejo01.html,Texas,3,23,PF,BOS,9.8,1223653,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+302,302,Khris Middleton,https://www.basketball-reference.com/players/m/middlkh01.html,South Carolina,9,26,SF,MIL,15.0,15200000,United States,38.0,-97.0,34.000343,-81.033211,United States,0
+303,303,C.J. Miles,https://www.basketball-reference.com/players/m/milescj01.html,Texas,15,30,SF,IND,13.8,4583450,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+304,304,Mike Miller,https://www.basketball-reference.com/players/m/millemi01.html,South Dakota,17,37,SF,DEN,7.6,3500000,United States,38.0,-97.0,44.367031,-100.346405,United States,0
+305,305,Patty Mills,https://www.basketball-reference.com/players/m/millspa02.html,Australia,12,29,PG,SAS,15.2,3578948,Australia,-27.0,133.0,-27.0,133.0,Oceania,1
+306,306,Elijah Millsap,https://www.basketball-reference.com/players/m/millsel01.html,Louisiana,3,30,SG,PHO,-3.4,23069,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+307,307,Paul Millsap,https://www.basketball-reference.com/players/m/millspa01.html,Louisiana,15,32,PF,ATL,17.8,20072033,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+308,308,Nikola Mirotić,https://www.basketball-reference.com/players/m/mirotni01.html,Montenegro,5,26,PF,CHI,14.5,5782450,Montenegro,42.0,19.0,42.0,19.0,Europe,1
+309,309,Greg Monroe,https://www.basketball-reference.com/players/m/monrogr01.html,Louisiana,9,27,C,MIL,21.1,17100000,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+310,310,E'Twaun Moore,https://www.basketball-reference.com/players/m/mooreet01.html,Indiana,10,28,SG,NOP,12.1,8081363,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+311,311,Marcus Morris,https://www.basketball-reference.com/players/m/morrima03.html,Pennsylvania,10,28,SF,DET,12.4,4625000,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+312,312,Markieff Morris,https://www.basketball-reference.com/players/m/morrima02.html,Pennsylvania,10,28,PF,WAS,13.7,7400000,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+313,313,Anthony Morrow,https://www.basketball-reference.com/players/m/morroan01.html,North Carolina,9,32,SG,TOT,10.1,3488000,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+314,314,Donatas Motiejūnas,https://www.basketball-reference.com/players/m/motiedo01.html,Lithuania,6,27,PF,NOP,9.1,576724,Lithuania,56.0,24.0,56.0,24.0,Europe,1
+315,315,Timofey Mozgov,https://www.basketball-reference.com/players/m/mozgoti01.html,Russia,8,31,C,LAL,12.3,16000000,Russia,60.0,100.0,60.0,100.0,Europe,1
+316,316,Emmanuel Mudiay,https://www.basketball-reference.com/players/m/mudiaem01.html,Democratic Republic of the Congo,5,21,PG,DEN,10.9,3241800,Democratic Republic of the Congo,0.0,25.0,0.0,25.0,Africa,1
+317,317,Shabazz Muhammad,https://www.basketball-reference.com/players/m/muhamsh01.html,California,5,25,SF,MIN,14.9,3046299,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+318,318,Dejounte Murray,https://www.basketball-reference.com/players/m/murrade01.html,Washington,4,21,PG,SAS,9.6,1180080,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+319,319,Jamal Murray,https://www.basketball-reference.com/players/m/murraja01.html,Canada,5,20,SG,DEN,11.9,3210840,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+320,320,Mike Muscala,https://www.basketball-reference.com/players/m/muscami01.html,Minnesota,8,26,C,ATL,14.4,1015696,United States,38.0,-97.0,44.955097,-93.102211,United States,0
+321,321,Larry Nance Jr.,https://www.basketball-reference.com/players/n/nancela02.html,Ohio,6,24,PF,LAL,15.7,1207680,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+322,322,Shabazz Napier,https://www.basketball-reference.com/players/n/napiesh01.html,Massachusetts,6,26,PG,POR,13.6,1350120,United States,38.0,-97.0,42.358162,-71.063698,United States,0
+323,323,Maurice Ndour,https://www.basketball-reference.com/players/n/ndourma01.html,Senegal,1,25,PF,NYK,11.3,543471,Senegal,14.0,-14.0,14.0,-14.0,Africa,1
+324,324,Gary Neal,https://www.basketball-reference.com/players/n/nealga01.html,Maryland,7,33,SG,ATL,-4.3,72193,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+325,325,Jameer Nelson,https://www.basketball-reference.com/players/n/nelsoja01.html,Pennsylvania,14,35,PG,DEN,11.5,4540525,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+326,326,Raul Neto,https://www.basketball-reference.com/players/n/netora01.html,Brazil,6,25,PG,UTA,10.7,937800,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+327,327,Georges Niang,https://www.basketball-reference.com/players/n/niangge01.html,Massachusetts,5,24,PF,IND,0.1,650000,United States,38.0,-97.0,42.358162,-71.063698,United States,0
+328,328,Andrew Nicholson,https://www.basketball-reference.com/players/n/nichoan01.html,Canada,5,28,PF,TOT,5.9,6088993,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+329,329,Joakim Noah,https://www.basketball-reference.com/players/n/noahjo01.html,New York,13,32,C,NYK,15.2,17000000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+330,330,Nerlens Noel,https://www.basketball-reference.com/players/n/noelne01.html,Massachusetts,7,23,C,TOT,20.4,4384490,United States,38.0,-97.0,42.358162,-71.063698,United States,0
+331,331,Lucas Nogueira,https://www.basketball-reference.com/players/n/noguelu01.html,Brazil,4,25,C,TOR,15.5,1921320,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+332,332,Steve Novak,https://www.basketball-reference.com/players/n/novakst01.html,Illinois,11,34,PF,MIL,1.3,1551659,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+333,333,Dirk Nowitzki,https://www.basketball-reference.com/players/n/nowitdi01.html,Germany,21,39,PF,DAL,17.0,25000000,Germany,51.0,9.0,51.0,9.0,Europe,1
+334,334,Jusuf Nurkić,https://www.basketball-reference.com/players/n/nurkiju01.html,Bosnia and Herzegovina,7,23,C,TOT,17.5,1921320,Bosnia and Herzegovina,44.0,18.0,44.0,18.0,Europe,1
+335,335,David Nwaba,https://www.basketball-reference.com/players/n/nwabada01.html,California,5,24,SG,LAL,12.2,137466,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+336,336,Johnny O'Bryant,https://www.basketball-reference.com/players/o/obryajo01.html,Mississippi,4,24,PF,TOT,14.9,276827,United States,38.0,-97.0,32.303848,-90.182106,United States,0
+337,337,Kyle O'Quinn,https://www.basketball-reference.com/players/o/oquinky01.html,New York,8,27,C,NYK,20.5,3900000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+338,338,Daniel Ochefu,https://www.basketball-reference.com/players/o/ochefda01.html,Maryland,1,24,C,WAS,6.6,543471,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+339,339,Jahlil Okafor,https://www.basketball-reference.com/players/o/okafoja01.html,Illinois,6,22,C,PHI,14.8,4788840,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+340,340,Victor Oladipo,https://www.basketball-reference.com/players/o/oladivi01.html,Maryland,8,25,SG,OKC,13.6,6552960,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+341,341,Kelly Olynyk,https://www.basketball-reference.com/players/o/olynyke01.html,Canada,8,26,C,BOS,15.3,3094014,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+342,342,Arinze Onuaku,https://www.basketball-reference.com/players/o/onuakar01.html,Maryland,3,30,C,ORL,5.8,440078,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+343,343,Chinanu Onuaku,https://www.basketball-reference.com/players/o/onuakch01.html,Maryland,2,21,C,HOU,12.3,543471,United States,38.0,-97.0,38.978764,-76.490936,United States,0
+344,344,Kelly Oubre Jr.,https://www.basketball-reference.com/players/o/oubreke01.html,Louisiana,6,22,SF,WAS,9.1,2006640,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+345,345,Zaza Pachulia,https://www.basketball-reference.com/players/p/pachuza01.html,Georgia,16,33,C,GSW,16.1,2898000,Georgia,42.0,43.5,33.749027,-84.388229,Middle East,1
+346,346,Georgios Papagiannis,https://www.basketball-reference.com/players/p/papagge01.html,Greece,2,20,C,SAC,12.7,2202240,Greece,39.0,22.0,39.0,22.0,Europe,1
+347,347,Jabari Parker,https://www.basketball-reference.com/players/p/parkeja01.html,Illinois,7,22,PF,MIL,19.1,5374320,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+348,348,Tony Parker,https://www.basketball-reference.com/players/p/parketo01.html,Belgium,18,35,PG,SAS,13.0,14445313,Belgium,50.83,4.0,50.83,4.0,Europe,1
+349,349,Chandler Parsons,https://www.basketball-reference.com/players/p/parsoch01.html,Florida,9,29,SF,MEM,7.7,22116750,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+350,350,Lamar Patterson,https://www.basketball-reference.com/players/p/pattela01.html,Pennsylvania,2,26,SG,ATL,-1.9,128623,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+351,351,Patrick Patterson,https://www.basketball-reference.com/players/p/pattepa01.html,Washington,11,28,PF,TOR,10.8,6050000,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+352,352,Chris Paul,https://www.basketball-reference.com/players/p/paulch01.html,North Carolina,16,32,PG,LAC,26.2,22868827,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+353,353,Adreian Payne,https://www.basketball-reference.com/players/p/paynead01.html,Ohio,4,26,PF,MIN,14.4,2022240,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+354,354,Cameron Payne,https://www.basketball-reference.com/players/p/payneca01.html,Tennessee,6,23,PG,TOT,5.5,2112480,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+355,355,Elfrid Payton,https://www.basketball-reference.com/players/p/paytoel01.html,Louisiana,7,23,PG,ORL,17.2,2613600,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+356,356,Gary Payton II,https://www.basketball-reference.com/players/p/paytoga02.html,Washington,5,25,PG,MIL,4.5,543471,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+357,357,Paul Pierce,https://www.basketball-reference.com/players/p/piercpa01.html,California,19,40,SF,LAC,5.7,3500000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+358,358,Marshall Plumlee,https://www.basketball-reference.com/players/p/plumlma02.html,Indiana,2,25,C,NYK,10.9,543471,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+359,359,Mason Plumlee,https://www.basketball-reference.com/players/p/plumlma01.html,Indiana,8,27,C,TOT,18.1,2328530,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+360,360,Miles Plumlee,https://www.basketball-reference.com/players/p/plumlmi01.html,Indiana,7,29,C,TOT,8.4,12500000,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+361,361,Jakob Poeltl,https://www.basketball-reference.com/players/p/poeltja01.html,Austria,5,22,C,TOR,12.2,2703960,Austria,47.33,13.33,47.33,13.33,Europe,1
+362,362,Otto Porter Jr.,https://www.basketball-reference.com/players/p/porteot01.html,Missouri,8,24,SF,WAS,17.3,5893981,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+363,363,Bobby Portis,https://www.basketball-reference.com/players/p/portibo01.html,Arkansas,6,22,PF,CHI,14.9,1453680,United States,38.0,-97.0,34.746613,-92.288986,United States,0
+364,364,Kristaps Porziņģis,https://www.basketball-reference.com/players/p/porzikr01.html,Latvia,5,22,PF,NYK,17.4,4317720,Latvia,57.0,25.0,57.0,25.0,Europe,1
+365,365,Dwight Powell,https://www.basketball-reference.com/players/p/poweldw01.html,Canada,7,26,C,DAL,17.6,8375000,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+366,366,Norman Powell,https://www.basketball-reference.com/players/p/powelno01.html,California,6,24,SG,TOR,14.0,874636,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+367,367,Alex Poythress,https://www.basketball-reference.com/players/p/poythal01.html,Georgia,3,24,PF,PHI,13.2,38903,United States,38.0,-97.0,33.749027,-84.388229,United States,0
+368,368,Ronnie Price,https://www.basketball-reference.com/players/p/pricero01.html,Texas,12,34,PG,PHO,5.9,2557545,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+369,369,Taurean Prince,https://www.basketball-reference.com/players/p/princta02.html,Texas,5,23,SF,ATL,9.8,2318280,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+370,370,Chasson Randle,https://www.basketball-reference.com/players/r/randlch01.html,Illinois,4,24,PG,TOT,13.6,297311,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+371,371,Julius Randle,https://www.basketball-reference.com/players/r/randlju01.html,Texas,7,23,PF,LAL,16.3,3267120,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+372,372,Zach Randolph,https://www.basketball-reference.com/players/r/randoza01.html,Indiana,17,36,PF,MEM,18.5,10361445,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+373,373,J.J. Redick,https://www.basketball-reference.com/players/r/redicjj01.html,Tennessee,15,33,SG,LAC,14.8,7377500,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+374,374,Willie Reed,https://www.basketball-reference.com/players/r/reedwi02.html,Missouri,3,27,C,MIA,17.1,1015696,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+375,375,Josh Richardson,https://www.basketball-reference.com/players/r/richajo01.html,Oklahoma,6,24,SG,MIA,10.7,874636,United States,38.0,-97.0,35.492207,-97.503342,United States,0
+376,376,Malachi Richardson,https://www.basketball-reference.com/players/r/richama01.html,New Jersey,3,21,SG,SAC,9.6,1439880,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+377,377,Austin Rivers,https://www.basketball-reference.com/players/r/riverau01.html,California,9,25,SG,LAC,11.4,11000000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+378,378,Andre Roberson,https://www.basketball-reference.com/players/r/roberan03.html,New Mexico,7,26,SF,OKC,9.6,2183072,United States,38.0,-97.0,35.68224,-105.939728,United States,0
+379,379,Brian Roberts,https://www.basketball-reference.com/players/r/roberbr01.html,Ohio,5,32,PG,CHO,9.8,1050961,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+380,380,Glenn Robinson III,https://www.basketball-reference.com/players/r/robingl02.html,Indiana,7,23,SF,IND,11.5,1050500,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+381,381,Thomas Robinson,https://www.basketball-reference.com/players/r/robinth01.html,Washington,5,26,PF,LAL,17.3,1050961,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+382,382,Sergio Rodríguez,https://www.basketball-reference.com/players/r/rodrise01.html,Spain,5,31,PG,PHI,11.1,8000000,Spain,40.0,-4.0,40.0,-4.0,Europe,1
+383,383,Rajon Rondo,https://www.basketball-reference.com/players/r/rondora01.html,Kentucky,15,31,PG,CHI,13.6,14000000,United States,38.0,-97.0,38.186722,-84.875374,United States,0
+384,384,Derrick Rose,https://www.basketball-reference.com/players/r/rosede01.html,Illinois,12,29,PG,NYK,17.0,21323250,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+385,385,Terrence Ross,https://www.basketball-reference.com/players/r/rosste01.html,Oregon,9,26,SF,TOT,13.4,10000000,United States,38.0,-97.0,44.938461,-123.030403,United States,0
+386,386,Terry Rozier,https://www.basketball-reference.com/players/r/roziete01.html,Ohio,6,23,PG,BOS,10.9,1906440,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+387,387,Ricky Rubio,https://www.basketball-reference.com/players/r/rubiori01.html,Spain,10,27,PG,MIN,16.8,13550000,Spain,40.0,-4.0,40.0,-4.0,Europe,1
+388,388,Damjan Rudež,https://www.basketball-reference.com/players/r/rudezda01.html,Croatia,3,31,SF,ORL,6.3,980431,Croatia,45.17,15.5,45.17,15.5,Europe,1
+389,389,Brandon Rush,https://www.basketball-reference.com/players/r/rushbr01.html,Missouri,9,32,SG,MIN,6.6,3500000,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+390,390,D'Angelo Russell,https://www.basketball-reference.com/players/r/russeda01.html,Kentucky,6,21,PG,LAL,15.3,5332800,United States,38.0,-97.0,38.186722,-84.875374,United States,0
+391,391,Domantas Sabonis,https://www.basketball-reference.com/players/s/sabondo01.html,Oregon,5,21,PF,OKC,6.9,2440200,United States,38.0,-97.0,44.938461,-123.030403,United States,0
+392,392,Larry Sanders,https://www.basketball-reference.com/players/s/sandela01.html,Florida,6,29,C,CLE,6.5,1865547,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+393,393,Dario Šarić,https://www.basketball-reference.com/players/s/saricda01.html,Croatia,5,23,PF,PHI,12.8,2318280,Croatia,45.17,15.5,45.17,15.5,Europe,1
+394,394,Tomáš Satoranský,https://www.basketball-reference.com/players/s/satorto01.html,Czech Republic,5,26,SG,WAS,8.5,2870813,Czech Republic,49.75,15.5,49.75,15.5,Europe,1
+395,395,Dennis Schröder,https://www.basketball-reference.com/players/s/schrode01.html,Germany,8,24,PG,ATL,16.1,2708582,Germany,51.0,9.0,51.0,9.0,Europe,1
+396,396,Luis Scola,https://www.basketball-reference.com/players/s/scolalu01.html,Argentina,10,37,PF,BRK,13.9,5000000,Argentina,-34.0,-64.0,-34.0,-64.0,South America,1
+397,397,Mike Scott,https://www.basketball-reference.com/players/s/scottmi01.html,Virginia,9,29,PF,ATL,5.9,3333334,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+398,398,Thabo Sefolosha,https://www.basketball-reference.com/players/s/sefolth01.html,Switzerland,14,33,SF,ATL,11.9,3850000,Switzerland,47.0,8.0,47.0,8.0,Europe,1
+399,399,Wayne Selden,https://www.basketball-reference.com/players/s/seldewa01.html,Massachusetts,3,23,SG,TOT,6.9,83119,United States,38.0,-97.0,42.358162,-71.063698,United States,0
+400,400,Kevin Séraphin,https://www.basketball-reference.com/players/s/serapke01.html,French Guiana,7,28,PF,IND,14.4,1800000,French Guiana,4.0,-53.0,4.0,-53.0,South America,1
+401,401,Ramon Sessions,https://www.basketball-reference.com/players/s/sessira01.html,South Carolina,11,31,PG,CHO,12.4,6000000,United States,38.0,-97.0,34.000343,-81.033211,United States,0
+402,402,Iman Shumpert,https://www.basketball-reference.com/players/s/shumpim01.html,Illinois,10,27,SG,CLE,9.0,9700000,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+403,403,Pascal Siakam,https://www.basketball-reference.com/players/s/siakapa01.html,Cameroon,5,23,PF,TOR,11.5,1196040,Cameroon,6.0,12.0,6.0,12.0,Africa,1
+404,404,Jonathon Simmons,https://www.basketball-reference.com/players/s/simmojo02.html,Texas,4,28,SG,SAS,9.9,874636,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+405,405,Kyle Singler,https://www.basketball-reference.com/players/s/singlky01.html,Oregon,6,29,SF,OKC,5.9,4837500,United States,38.0,-97.0,44.938461,-123.030403,United States,0
+406,406,Marcus Smart,https://www.basketball-reference.com/players/s/smartma01.html,Texas,7,23,SG,BOS,12.0,3578880,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+407,407,Ish Smith,https://www.basketball-reference.com/players/s/smithis01.html,North Carolina,11,29,PG,DET,14.7,6000000,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+408,408,J.R. Smith,https://www.basketball-reference.com/players/s/smithjr01.html,New Jersey,16,32,SG,CLE,8.1,12800000,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+409,409,Jason Smith,https://www.basketball-reference.com/players/s/smithja02.html,Colorado,11,31,C,WAS,13.6,5000000,United States,38.0,-97.0,39.739227,-104.984856,United States,0
+410,410,Tony Snell,https://www.basketball-reference.com/players/s/snellto01.html,California,8,26,SG,MIL,9.7,2368327,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+411,411,Marreese Speights,https://www.basketball-reference.com/players/s/speigma01.html,Florida,10,30,C,LAC,17.5,1403611,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+412,412,Tiago Splitter,https://www.basketball-reference.com/players/s/splitti01.html,Brazil,7,32,C,PHI,15.0,8550000,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+413,413,Nik Stauskas,https://www.basketball-reference.com/players/s/stausni01.html,Canada,5,24,SG,PHI,9.0,2993040,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+414,414,Lance Stephenson,https://www.basketball-reference.com/players/s/stephla01.html,New York,9,27,SG,TOT,9.6,4000000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+415,415,Jarnell Stokes,https://www.basketball-reference.com/players/s/stokeja01.html,Tennessee,3,23,C,DEN,31.5,150000,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+416,416,Diamond Stone,https://www.basketball-reference.com/players/s/stonedi01.html,Wisconsin,1,20,C,LAC,-1.2,543471,United States,38.0,-97.0,43.074684,-89.384445,United States,0
+417,417,Rodney Stuckey,https://www.basketball-reference.com/players/s/stuckro01.html,Washington,10,31,PG,IND,9.5,7000000,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+418,418,Jared Sullinger,https://www.basketball-reference.com/players/s/sullija01.html,Ohio,5,25,PF,TOR,6.0,5628000,United States,38.0,-97.0,39.961346,-82.999069,United States,0
+419,419,Edy Tavares,https://www.basketball-reference.com/players/t/tavarwa01.html,Cape Verde,2,25,C,TOT,21.3,1000000,Cape Verde,16.0,-24.0,16.0,-24.0,Africa,1
+420,420,Isaiah Taylor,https://www.basketball-reference.com/players/t/taylois01.html,California,2,23,PG,HOU,0.3,305000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+421,421,Jeff Teague,https://www.basketball-reference.com/players/t/teaguje01.html,Indiana,12,29,PG,IND,19.2,8800000,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+422,422,Mirza Teletović,https://www.basketball-reference.com/players/t/teletmi01.html,Bosnia and Herzegovina,6,32,PF,MIL,8.8,10500000,Bosnia and Herzegovina,44.0,18.0,44.0,18.0,Europe,1
+423,423,Garrett Temple,https://www.basketball-reference.com/players/t/templga01.html,Louisiana,11,31,SG,SAC,11.2,8000000,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+424,424,Jason Terry,https://www.basketball-reference.com/players/t/terryja01.html,Washington,19,40,SG,MIL,9.1,1551659,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+425,425,Isaiah Thomas,https://www.basketball-reference.com/players/t/thomais02.html,Washington,10,28,PG,BOS,26.5,6587132,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+426,426,Lance Thomas,https://www.basketball-reference.com/players/t/thomala01.html,New York,9,29,PF,NYK,8.4,6191000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+427,427,Hollis Thompson,https://www.basketball-reference.com/players/t/thompho01.html,California,4,26,SG,TOT,7.9,442126,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+428,428,Klay Thompson,https://www.basketball-reference.com/players/t/thompkl01.html,California,8,27,SG,GSW,17.4,16663575,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+429,429,Tristan Thompson,https://www.basketball-reference.com/players/t/thomptr01.html,Canada,10,26,C,CLE,15.3,15330435,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+430,430,Marcus Thornton,https://www.basketball-reference.com/players/t/thornma01.html,Louisiana,8,30,SG,WAS,10.4,1315448,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+431,431,Mike Tobey,https://www.basketball-reference.com/players/t/tobeymi01.html,New York,1,23,C,CHO,-0.1,138938,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+432,432,Anthony Tolliver,https://www.basketball-reference.com/players/t/tollian01.html,Missouri,13,32,PF,SAC,11.1,8000000,United States,38.0,-97.0,38.579201,-92.172935,United States,0
+433,433,Axel Toupane,https://www.basketball-reference.com/players/t/toupaax01.html,France,3,25,SF,TOT,6.2,51449,France,46.0,2.0,46.0,2.0,Europe,1
+434,434,Karl-Anthony Towns,https://www.basketball-reference.com/players/t/townska01.html,New Jersey,6,22,C,MIN,25.9,5960160,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+435,435,P.J. Tucker,https://www.basketball-reference.com/players/t/tuckepj01.html,North Carolina,10,32,SF,TOT,10.5,5300000,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+436,436,Evan Turner,https://www.basketball-reference.com/players/t/turneev01.html,Illinois,10,29,SF,POR,11.4,16393443,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+437,437,Myles Turner,https://www.basketball-reference.com/players/t/turnemy01.html,Texas,6,21,C,IND,18.5,2463840,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+438,438,Beno Udrih,https://www.basketball-reference.com/players/u/udrihbe01.html,Slovenia,13,35,PG,DET,16.2,1551659,Slovenia,46.0,15.0,46.0,15.0,Europe,1
+439,439,Tyler Ulis,https://www.basketball-reference.com/players/u/ulisty01.html,Michigan,3,21,PG,PHO,13.0,918369,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+440,440,Jarrod Uthoff,https://www.basketball-reference.com/players/u/uthofja01.html,Iowa,2,24,PF,DAL,13.9,63938,United States,38.0,-97.0,41.591087,-93.603729,United States,0
+441,441,Jonas Valančiūnas,https://www.basketball-reference.com/players/v/valanjo01.html,Lithuania,9,25,C,TOR,20.1,14382022,Lithuania,56.0,24.0,56.0,24.0,Europe,1
+442,442,Denzel Valentine,https://www.basketball-reference.com/players/v/valende01.html,Michigan,4,24,SG,CHI,7.3,2092200,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+443,443,Fred VanVleet,https://www.basketball-reference.com/players/v/vanvlfr01.html,Illinois,5,23,PG,TOR,10.5,543471,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+444,444,Anderson Varejão,https://www.basketball-reference.com/players/v/varejan01.html,Brazil,14,35,C,GSW,9.4,1984005,Brazil,-10.0,-55.0,-10.0,-55.0,South America,1
+445,445,Greivis Vásquez,https://www.basketball-reference.com/players/v/vasqugr01.html,Venezuela,7,30,PG,BRK,4.1,4347826,Venezuela,8.0,-66.0,8.0,-66.0,South America,1
+446,446,Rashad Vaughn,https://www.basketball-reference.com/players/v/vaughra01.html,Minnesota,3,21,SG,MIL,7.8,1811040,United States,38.0,-97.0,44.955097,-93.102211,United States,0
+447,447,Noah Vonleh,https://www.basketball-reference.com/players/v/vonleno01.html,Massachusetts,7,22,PF,POR,10.8,2751360,United States,38.0,-97.0,42.358162,-71.063698,United States,0
+448,448,Nikola Vučević,https://www.basketball-reference.com/players/v/vucevni01.html,Switzerland,10,27,C,ORL,19.1,11750000,Switzerland,47.0,8.0,47.0,8.0,Europe,1
+449,449,Sasha Vujačić,https://www.basketball-reference.com/players/v/vujacsa01.html,Slovenia,10,33,SG,NYK,8.6,1410598,Slovenia,46.0,15.0,46.0,15.0,Europe,1
+450,450,Dwyane Wade,https://www.basketball-reference.com/players/w/wadedw01.html,Illinois,16,35,SG,CHI,18.5,23200000,United States,38.0,-97.0,39.798363,-89.654961,United States,0
+451,451,Dion Waiters,https://www.basketball-reference.com/players/w/waitedi01.html,Pennsylvania,8,26,SG,MIA,14.5,2898000,United States,38.0,-97.0,40.264378,-76.883598,United States,0
+452,452,Kemba Walker,https://www.basketball-reference.com/players/w/walkeke02.html,New York,10,27,PG,CHO,21.3,12000000,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+453,453,John Wall,https://www.basketball-reference.com/players/w/walljo01.html,North Carolina,10,27,PG,WAS,23.2,16957900,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+454,454,T.J. Warren,https://www.basketball-reference.com/players/w/warretj01.html,North Carolina,7,24,SF,PHO,15.6,2128920,United States,38.0,-97.0,35.78043,-78.639099,United States,0
+455,455,C.J. Watson,https://www.basketball-reference.com/players/w/watsocj01.html,Nevada,10,33,PG,ORL,9.3,5000000,United States,38.0,-97.0,39.163914,-119.766121,United States,0
+456,456,Briante Weber,https://www.basketball-reference.com/players/w/weberbr01.html,Virginia,3,25,PG,TOT,11.0,328000,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+457,457,David West,https://www.basketball-reference.com/players/w/westda01.html,New Jersey,15,37,C,GSW,16.6,1551659,United States,38.0,-97.0,40.220596,-74.769913,United States,0
+458,458,Okaro White,https://www.basketball-reference.com/players/w/whiteok01.html,Florida,3,25,PF,MIA,7.5,374933,United States,38.0,-97.0,30.438118,-84.281296,United States,0
+459,459,Isaiah Whitehead,https://www.basketball-reference.com/players/w/whiteis01.html,New York,2,22,PG,BRK,7.6,1074145,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+460,460,Andrew Wiggins,https://www.basketball-reference.com/players/w/wiggian01.html,Canada,7,22,SF,MIN,16.5,6006600,Canada,60.0,-95.0,60.0,-95.0,Canada,1
+461,461,C.J. Wilcox,https://www.basketball-reference.com/players/w/wilcocj01.html,Utah,3,27,SG,ORL,2.9,1209680,United States,38.0,-97.0,40.777477,-111.888237,United States,0
+462,462,Alan Williams,https://www.basketball-reference.com/players/w/willial03.html,Arizona,4,24,C,PHO,19.5,874636,United States,38.0,-97.0,33.448143,-112.096962,United States,0
+463,463,Deron Williams,https://www.basketball-reference.com/players/w/willide01.html,West Virginia,12,33,PG,TOT,14.0,9000000,United States,38.0,-97.0,38.336246,-81.612328,United States,0
+464,464,Derrick Williams,https://www.basketball-reference.com/players/w/willide02.html,California,7,26,PF,TOT,10.6,4598000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+465,465,Lou Williams,https://www.basketball-reference.com/players/w/willilo02.html,Tennessee,16,31,SG,TOT,21.4,7000000,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+466,466,Marvin Williams,https://www.basketball-reference.com/players/w/willima02.html,Washington,15,31,PF,CHO,13.7,12250000,United States,38.0,-97.0,47.035805,-122.905014,United States,0
+467,467,Reggie Williams,https://www.basketball-reference.com/players/w/willire02.html,Virginia,7,31,SF,NOP,11.7,252676,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+468,468,Troy Williams,https://www.basketball-reference.com/players/w/willitr02.html,Virginia,3,23,SF,TOT,9.0,543471,United States,38.0,-97.0,37.538857,-77.43364,United States,0
+469,469,Justise Winslow,https://www.basketball-reference.com/players/w/winslju01.html,Texas,6,21,SF,MIA,8.2,2593440,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+470,470,Jeff Withey,https://www.basketball-reference.com/players/w/witheje01.html,California,5,27,C,UTA,18.8,1015696,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+471,471,Christian Wood,https://www.basketball-reference.com/players/w/woodch01.html,California,5,22,PF,CHO,15.1,874636,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+472,472,Metta World Peace,https://www.basketball-reference.com/players/a/artesro01.html,New York,17,38,SF,LAL,6.5,1551659,United States,38.0,-97.0,42.652843,-73.757874,United States,0
+473,473,Brandan Wright,https://www.basketball-reference.com/players/w/wrighbr03.html,Tennessee,10,30,PF,MEM,18.5,5700000,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+474,474,Delon Wright,https://www.basketball-reference.com/players/w/wrighde01.html,California,6,25,PG,TOR,15.0,1577280,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+475,475,James Young,https://www.basketball-reference.com/players/y/youngja01.html,Michigan,4,22,SG,BOS,10.0,1825200,United States,38.0,-97.0,42.733635,-84.555328,United States,0
+476,476,Joe Young,https://www.basketball-reference.com/players/y/youngjo01.html,Texas,3,25,PG,IND,11.4,1052342,United States,38.0,-97.0,30.27467,-97.740349,United States,0
+477,477,Nick Young,https://www.basketball-reference.com/players/y/youngni01.html,California,12,32,SG,LAL,14.1,5443918,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+478,478,Thaddeus Young,https://www.basketball-reference.com/players/y/youngth01.html,Louisiana,14,29,PF,IND,14.9,14153652,United States,38.0,-97.0,30.457069,-91.187393,United States,0
+479,479,Cody Zeller,https://www.basketball-reference.com/players/z/zelleco01.html,Indiana,8,25,C,CHO,16.7,5318313,United States,38.0,-97.0,39.768623,-86.162643,United States,0
+480,480,Tyler Zeller,https://www.basketball-reference.com/players/z/zellety01.html,California,8,27,C,BOS,13.0,8000000,United States,38.0,-97.0,38.576668,-121.493629,United States,0
+481,481,Stephen Zimmerman,https://www.basketball-reference.com/players/z/zimmest01.html,Tennessee,1,21,C,ORL,7.3,950000,United States,38.0,-97.0,36.16581,-86.784241,United States,0
+482,482,Paul Zipser,https://www.basketball-reference.com/players/z/zipsepa01.html,Germany,2,23,SF,CHI,6.9,750000,Germany,51.0,9.0,51.0,9.0,Europe,1
+483,483,Ivica Zubac,https://www.basketball-reference.com/players/z/zubaciv01.html,Bosnia and Herzegovina,5,20,C,LAL,17.0,1034956,Bosnia and Herzegovina,44.0,18.0,44.0,18.0,Europe,1
